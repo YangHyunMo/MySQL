@@ -1,0 +1,10 @@
+INSERT INTO `modeldb`.`tbl_board` (`no`, `title`, `content`, `writer`, `reg_date`, `update_date`) VALUES ('1', '일', '일일일', '양1', '2025-05-01', '2025-05-01');
+INSERT INTO `modeldb`.`tbl_board` (`no`, `title`, `content`, `writer`, `reg_date`, `update_date`) VALUES ('2', '이', '이이이', '양2', '2025-05-02', '2025-05-02');
+INSERT INTO `modeldb`.`tbl_board` (`no`, `title`, `content`, `writer`, `reg_date`, `update_date`) VALUES ('3', '삼', '삼삼삼', '양3', '2025-05-03', '2025-05-03');
+INSERT INTO `modeldb`.`tbl_board` (`no`, `title`, `content`, `writer`, `reg_date`, `update_date`) VALUES ('4', '사', '사사사', '양4', '2025-05-04', '2025-05-04');
+INSERT INTO `modeldb`.`tbl_board` (`no`, `title`, `content`, `writer`, `reg_date`, `update_date`) VALUES ('5', '오', '오오오', '양5', '2025-05-05', '2025-05-05');
+INSERT INTO `modeldb`.`tbl_board` (`no`, `title`, `content`, `writer`, `reg_date`, `update_date`) VALUES ('6', '육', '육육육', '양6', '2025-05-06', '2025-05-06');
+INSERT INTO `modeldb`.`tbl_board` (`no`, `title`, `content`, `writer`, `reg_date`, `update_date`) VALUES ('7', '칠', '칠칠칠', '양7', '2025-05-07', '2025-05-07');
+INSERT INTO `modeldb`.`tbl_board` (`no`, `title`, `content`, `writer`, `reg_date`, `update_date`) VALUES ('8', '팔', '팔팔팔', '양8', '2025-05-08', '2025-05-08');
+INSERT INTO `modeldb`.`tbl_board` (`no`, `title`, `content`, `writer`, `reg_date`, `update_date`) VALUES ('9', '구', '구구구', '양9', '2025-05-09', '2025-05-09');
+INSERT INTO `modeldb`.`tbl_board` (`no`, `title`, `content`, `writer`, `reg_date`, `update_date`) VALUES ('10', '십', '십십십', '양10', '2025-05-10', '2025-05-10');
