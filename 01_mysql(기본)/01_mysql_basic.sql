@@ -1,0 +1,2 @@
+use employees;
+show databases;
