@@ -24,7 +24,6 @@ db.users.updateMany( {"favorites.movies": "Casablanca"},
 -- numbers 컬렉션에 20,000개의 문서를 생성하세요.
 for(let i = 0; i < 20000; i++) {db.numbers.insert({num: i});}
 
-
 -- numbers 컬렉션의 문서 개수를 출력하세요.
 db.numbers.count()
 
